@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tourism Activation Helper App</string>
+    <string name="export_database">Export Database</string>
+</resources>
